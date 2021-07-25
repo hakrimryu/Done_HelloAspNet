@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloMVC", "HelloMVC\HelloMVC.csproj", "{B7111859-0F57-4CC6-A4CA-3FA36F6E3406}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloMVC", "HelloMVC\HelloMVC.csproj", "{B7111859-0F57-4CC6-A4CA-3FA36F6E3406}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloRazorPages", "HelloRazorPages\HelloRazorPages.csproj", "{20334B71-33DB-4A52-8096-9287FDA527BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloRazorPages", "HelloRazorPages\HelloRazorPages.csproj", "{20334B71-33DB-4A52-8096-9287FDA527BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWebApi", "HelloWebApi\HelloWebApi.csproj", "{F2F24CBE-E0DB-4138-A81B-5D0F04823F9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWebApi", "HelloWebApi\HelloWebApi.csproj", "{F2F24CBE-E0DB-4138-A81B-5D0F04823F9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloEmpty", "HelloEmpty\HelloEmpty.csproj", "{13C67043-647A-4D03-AAF4-E55072BDBE56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloEmpty", "HelloEmpty\HelloEmpty.csproj", "{13C67043-647A-4D03-AAF4-E55072BDBE56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloBlazorServer", "HelloBlazorServer\HelloBlazorServer.csproj", "{DDFF77B2-B805-43EF-B40D-540CEC2B3DCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloBlazorServer", "HelloBlazorServer\HelloBlazorServer.csproj", "{DDFF77B2-B805-43EF-B40D-540CEC2B3DCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloBlazorClient", "HelloBlazorClient\HelloBlazorClient.csproj", "{D9497977-33CA-4DED-B97A-6A39B9236E8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloBlazorClient", "HelloBlazorClient\HelloBlazorClient.csproj", "{D9497977-33CA-4DED-B97A-6A39B9236E8F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
