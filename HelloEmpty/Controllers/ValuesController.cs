@@ -12,5 +12,16 @@ namespace HelloEmpty.Controllers
     [ApiController]
     public class ValuesController : ControllerBase
     {
+        [HttpGet]
+        public List<HelloMessage> Get()
+        {
+            List<HelloMessage> messages = new List<HelloMessage>();
+
+            messages.Add(new HelloMessage() { Message = "Hello Web Api 1 !" });
+            messages.Add(new HelloMessage() { Message = "Hello Web Api 2 !" });
+            messages.Add(new HelloMessage() { Message = "Hello Web Api 3 !" });
+
+            return messages;
+        }
     }
 }
